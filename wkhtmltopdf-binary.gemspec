@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 1.8.7'
   s.required_rubygems_version = ">= 1.3.6"
 
-  s.author = '- Research Information Systems, The University of Iowa'
-  s.homepage = ''
-  s.email = 'vpr-ris-developers@iowa.uiowa.edu,mcollas@aconex.com'
+  s.author = 'Levi Buzolic'
+  s.homepage = 'http://levibuzolic.com/'
+  s.email = 'levibuzolic@gmail.com'
 
   s.bindir = 'bin'
   s.executables = %w(wkhtmltopdf)
